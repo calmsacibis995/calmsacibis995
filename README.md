@@ -4,4 +4,4 @@ I'm fascinated with Unix and Unix-like operating systems. I started having a int
 
 In my profile, you can find repositories filled with source code from various Unix operating systems, ancient, modern, commercial, such as Solaris, HP-UX, IRIX, etc., among other things.
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calmsacibis995)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=calmsacibis995&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
